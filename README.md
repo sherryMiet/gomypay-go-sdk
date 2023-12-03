@@ -1,1 +1,1 @@
-# stripe-go-sdk
+# gomypay-go-sdk
